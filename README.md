@@ -17,32 +17,6 @@ This project demonstrates portfolio optimization (trading) of the Dow Jones 30 s
 - **Agent Training:** Train two RL agents (A2C and PPO) using `DRLAgent` from FinRL.
 - **Backtesting:** Evaluate trained agents with backtesting statistics and performance plots (`backtest_stats`, `backtest_plot`).
 
-### 🚀 Getting Started
-
-1. **Clone the repository**
-
-   ```bash
-   git clone <your-repo-url>
-   cd <your-repo-directory>
-   ```
-
-2. **Install dependencies**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Launch the notebook**
-
-   ```bash
-   jupyter notebook "Portfolio (2).ipynb"
-   ```
-
-4. **Run the cells sequentially**
-
-   - Data download and preprocessing
-   - A2C agent training and backtesting
-   - PPO agent training and backtesting
 
 ### 📊 Results
 
